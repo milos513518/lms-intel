@@ -31,4 +31,6 @@ company,tier,lms,score,status,owner,owner_title,timing_signal,opener_angle,acade
 
 ## Waymo track
 
-The `waymo/` directory (when populated) follows the same structure for a different motion: internal engineering onboarding rather than customer education. Detection points differ; the schema and rules here carry over.
+The `waymo/` directory holds the second motion: internal engineering onboarding rather than customer education. Its playbook is people-first (see `waymo/detection-signals.md`); no DNS or page signals exist for internal programs. Rules here carry over.
+
+5. **Waymo lookalike sweep.** `waymo/targets.csv` holds the schema and the anchor row only. Build the candidate pool from companies with engineering headcount growth above ~25% YoY plus new international hubs, then score against the 7 signals in `waymo/detection-signals.md`. The trigger signal is an enablement hire from a big-tech program within their first 90 days (LinkedIn saved search on role changes). Append rows with public evidence per column; this repo is public, so roles and facts, not per-person dossiers.

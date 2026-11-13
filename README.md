@@ -43,8 +43,9 @@ README.md                          this file
 AGENTS.md                          operating instructions for agents working this repo
 targets.csv                        record of truth: 75 companies, owners, scores, status
 docs/reverse-engineering-map.md    the 9 signals in full, detection methods, 100 point ICP rubric
-waymo/                             (coming) same process for internal engineering onboarding;
-                                   different detection points, same structure
+waymo/                             the second motion: internal engineering onboarding;
+                                   people-first signature, 7 signals, anchor verified,
+                                   lookalike sweep pending (see waymo/README.md)
 ```
 
 ## How to work this repo
