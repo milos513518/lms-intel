@@ -1,0 +1,76 @@
+company,tier,lms,score,status,owner,owner_title,timing_signal,opener_angle,academy_host,platform_age_yrs
+Datadog,In deal,Thinkific,65,Not started,Alex Rosenkranz,"EM, Customer Education",Demo Nov 20; Thinkific renewal ~Jul,End the migration cycle; Git-native + lab handshake,learn.datadoghq.com,4.3
+Yugabyte,1 Creator,Thinkific,45,Not started,OPEN ROLE,"Prior Director Seth Luersen left Sep 2025, academy orphaned",,Datadog-mismatch story,university.yugabyte.com,
+Dremio,1 Creator,LearnWorlds,45,Not started,None found,Via DevRel or CS,,Datadog-mismatch story,university.dremio.com,
+Picus Security,1 Creator,LearnWorlds,45,Not started,None found,Purple Academy run from Turkey org,,Datadog-mismatch story,academy.picussecurity.com,
+LangChain,1 Creator,Thinkific,35,Not started,Jess Ou,"Head of Marketing, built the Academy herself","AI-native, massive dev mindshare",Datadog-mismatch story,academy.langchain.com,
+Semgrep,1 Creator,Thinkific,35,Not started,Tanya Janca,Education & Community (Semgrep acquired her academy),,Datadog-mismatch story,academy.semgrep.dev,
+Hightouch,1 Creator,Thinkific,35,Not started,Sydney Doyle,"Technical Docs & Enablement Mgr, implements llms.txt",,Datadog-mismatch story,learn.hightouch.com,
+Make,1 Creator,Thinkific,35,Not started,Noona Happonen,"Head of Customer Education, 300K learners",,Datadog-mismatch story,academy.make.com,
+Pulumi,1 Creator,LearnWorlds,35,Not started,OPEN,Content engineering lead left Sep 2025,Content-as-code culture by definition,Datadog-mismatch story,academy.pulumi.com,
+Bitrise,1 Creator,LearnWorlds,35,Not started,None found,Via CTO Viktor Benei,,Datadog-mismatch story,academy.bitrise.io,
+Rancher (SUSE),1 Creator,Thinkific (page assets),25,Not started,Divya Mohan,"Lead OSS Advocate, Rancher Academy creator",,Datadog-mismatch story,academy.rancher.com,
+Akuity,1 Creator,Thinkific (page assets),25,Not started,Irina Belova,"Sr PMM, new DevRel started Oct 2026",,Datadog-mismatch story,academy.akuity.io,
+Tigera,1 Creator,Podia,15,Not started,None found,DevRel director left 2021,Instruqt customer,Solo-creator platform under a security brand,academy.tigera.io,
+Cohere,WorkRamp,WorkRamp,25,Not started,Katherine Correia,"Lead, Customer Education & Adoption","AI lab, dev education on an HR tool",Customer education on an internal LMS,learn.cohere.com,
+Coder,WorkRamp,WorkRamp,25,Not started,Marco Martinez,Community Team Lead,,Customer education on an internal LMS,learn.coder.com,
+Statsig,WorkRamp,WorkRamp,25,Not started,None found,"Marketing head departed, team shrank",,Customer education on an internal LMS,university.statsig.com,
+FireHydrant,WorkRamp,WorkRamp,25,Not started,DISQUALIFY?,Acquired by Freshworks Jan 2026,,Customer education on an internal LMS,academy.firehydrant.com,
+Sumo Logic,2 Skilljar,Skilljar,45,Not started,OPEN,Sr Dir Education left Jan 2024 (15K certs program),Datadog competitor,Labs + AI gaps Skilljar leaves,learn.sumologic.com,
+CircleCI,2 Skilljar,Skilljar,35,Drafted,"Incoming VP, Customer Eng & Success",VP CES,VP posting Nov 8; 2022 cohort renewal,"New budget owner, platform rethink window",academy.circleci.com,4.3
+LogicMonitor,2 Skilljar,Skilljar,35,Not started,Greg Russell,"Director, Global Training & Enablement ($90M ARR influenced)",Datadog competitor,Labs + AI gaps Skilljar leaves,academy.logicmonitor.com,
+New Relic,2 Skilljar,Skilljar,30,Drafted,Tom Doherty,"Director, Technical Enablement",Cert lead departed Aug 2026; direct Datadog comp,Labs + AI gaps Skilljar leaves,learn.newrelic.com,10.6
+LaunchDarkly,2 Skilljar,Skilljar,30,Drafted,Amina Khattak,Customer Education Manager,2022 cohort renewal,"One-person academy team, leverage pitch",academy.launchdarkly.com,4.2
+Fastly,2 Skilljar,Skilljar,30,Not started,Austin Spires,"Sr Director, Developer Enablement",,Labs + AI gaps Skilljar leaves,learning.fastly.com,
+Amplitude,2 Skilljar,Skilljar,30,Not started,Nathan Livni,"Sr Manager, Customer Education, built the Academy",,Labs + AI gaps Skilljar leaves,academy.amplitude.com,
+Heap,2 Skilljar,Skilljar,30,Not started,None current,CE team dispersed post-Contentsquare,,Labs + AI gaps Skilljar leaves,university.heap.io,
+Astronomer,2 Skilljar,Skilljar,30,Not started,None found,Certs run via DevRel,New VP Product Marketing Oct 2026,Labs + AI gaps Skilljar leaves,academy.astronomer.io,5.6
+PagerDuty,2 Skilljar,Skilljar,30,Not started,IN FLUX,"Acting Director Nancy L. through Feb 2026, 12-person team",,Labs + AI gaps Skilljar leaves,university.pagerduty.com,7.5
+Camunda,2 Skilljar,Skilljar,30,Not started,Rory Adjin-Tettey,"Manager, Education (Director Darren Devine left Apr 2026)",2022 cohort renewal,Labs + AI gaps Skilljar leaves,academy.camunda.com,4.4
+Pendo,2 Skilljar,Skilljar,25,Not started,Talya Reynolds,"Manager, Customer Education",,Labs + AI gaps Skilljar leaves,academy.pendo.io,
+Postman,2 Skilljar,Skilljar,20,Drafted,Maren Engh,"Sr Director, Customer Education & Advocacy",Was hiring enablement PM Feb 2026,"30M devs upstream, badges, no Course schema",academy.postman.com,3.8
+Starburst,2 Skilljar,Skilljar,20,Not started,TBD,Curriculum dev moved to sales enablement Feb 2026,,Labs + AI gaps Skilljar leaves,academy.starburst.io,3.9
+Grafana,2 Skilljar,Skilljar,20,Not started,Jazz Carr,Education Architect,Datadog competitor,Labs + AI gaps Skilljar leaves,university.grafana.com,
+Coralogix,2 Skilljar,Skilljar,20,Not started,Chris Cooney,"Director of Advocacy, owns education platform",Datadog competitor,Labs + AI gaps Skilljar leaves,academy.coralogix.com,
+Cribl,2 Skilljar,Skilljar,20,Not started,Dariann Kobe,"Director, Technical Customer Training",,Labs + AI gaps Skilljar leaves,university.cribl.io,
+Drata,2 Skilljar,Skilljar,20,Not started,Michael Goetz,"SVP Customer Success, HIRING CE Manager Sep 2026",,Labs + AI gaps Skilljar leaves,academy.drata.com,
+CockroachDB,2 Skilljar,Skilljar,10,Not started,Nathan Zamecnik,"Director, Training & Documentation, agent-first content",,Labs + AI gaps Skilljar leaves,university.cockroachlabs.com,6.9
+ClickHouse,2 Skilljar,Skilljar (page assets),10,Not started,Rich Raposa,"Director, Global Learning, HIRING cert mgr Jul 2026",,Labs + AI gaps Skilljar leaves,learn.clickhouse.com,
+Databricks,3 Docebo,Docebo,35,Not started,Nate Hast,"Dir Global Training Delivery (verify, possible Aug 2026 exit)",2022 cohort renewal,"Corporate LMS, developer audience",customer-academy.databricks.com,4.8
+Confluent,3 Docebo,Docebo,35,Not started,IN FLUX,"IBM acquisition, Dir CE left Apr 2026",,"Corporate LMS, developer audience",training.confluent.io,6.2
+Elastic,3 Docebo,Docebo,35,Not started,Ryan Anson,"Director, Global Education Delivery",Datadog competitor,"Corporate LMS, developer audience",learn.elastic.co,7.4
+Dynatrace,3 Docebo,Docebo,35,Not started,Amanda Watkins,"Sr Director Global Learning, NEW Jul 2026",Datadog competitor,"Corporate LMS, developer audience",university.dynatrace.com,
+CrowdStrike,3 Docebo,Docebo,35,Not started,Amy Hughey,"Director of Training, HIRING delivery mgr Oct 2026",,"Corporate LMS, developer audience",university.crowdstrike.com,
+CyberArk,3 Docebo,Docebo,35,Not started,PANW INTEGRATION,Training org merging into Palo Alto,,"Corporate LMS, developer audience",training.cyberark.com,
+Couchbase,3 Docebo,Docebo,35,Not started,Michelle Burns,Academy Program Mgr (runs Docebo AND LearnUpon),,"Corporate LMS, developer audience",learn.couchbase.com,
+SingleStore,3 Docebo,Docebo,35,Not started,Donovan An,"Global Director Enablement & Education, NEW Aug 2026",,"Corporate LMS, developer audience",training.singlestore.com,
+InfluxData,3 Docebo,Docebo,35,Not started,None found,Company shrinking,,"Corporate LMS, developer audience",university.influxdata.com,
+Sonatype,3 Docebo,Docebo,35,Not started,Kimberly Watson,Director of Customer Education,,"Corporate LMS, developer audience",learn.sonatype.com,
+Workato,3 Docebo,Docebo,35,Not started,TBD,"ID team, lead unclear",,"Corporate LMS, developer audience",academy.workato.com,
+Fivetran,3 Docebo,Docebo,25,Drafted,Robert Moon,"Sr Manager, Technical Enablement",GEO/SEO hire Sep 2026; HVR tenant in DNS; 3 LMSes visible,AI discoverability they are already funding,learn.fivetran.com,0.7
+Palo Alto Networks,3 Docebo,Docebo,25,Not started,Jason Niles,"Sr Mgr Training Services Americas (ex-CyberArk, ISO 17024 certs)",,"Corporate LMS, developer audience",education.paloaltonetworks.com,
+Vanta,3 Docebo,Docebo,25,Not started,Jeralyn Abbate,"Program Manager, Technical Education (also WorkRamp audit academy)",,"Corporate LMS, developer audience",academy.vanta.com,
+GitLab,Thought Ind.,Thought Industries,45,Not started,Sean Sandoval,"Sr Manager, Professional Education Services",,"Docs-as-code company, WYSIWYG LMS",levelup.gitlab.com,
+dbt Labs,Thought Ind.,Thought Industries,35,Not started,Beth Hipple,Head of Training,,"Docs-as-code company, WYSIWYG LMS",learn.getdbt.com,7.6
+Cortex,Thought Ind.,Thought Industries,35,Not started,None current,"DevRel head left Jan 2025, company shrinking",,"Docs-as-code company, WYSIWYG LMS",academy.cortex.io,
+SentinelOne,Thought Ind.,Thought Industries,35,Not started,OPEN since Aug 2025,Dir CE Mark Hoeber departed,,"Docs-as-code company, WYSIWYG LMS",university.sentinelone.com,
+MongoDB,Thought Ind.,Thought Industries (page assets),25,Not started,Raghu Viswanathan,"VP Education, 1M learners/mo, doing SEO/AEO/LLM optimization","Looks in-house, TI assets behind own DNS","Docs-as-code company, WYSIWYG LMS",learn.mongodb.com,
+Cloudflare,Thought Ind.,Thought Industries (page assets),25,Not started,Luke S.,Sr PM Customer Education Content (team hit by RIF),,"Docs-as-code company, WYSIWYG LMS",training.cloudflare.com,
+Kong,Other LMS,White-label TBD (lmspowered.com),45,Not started,Barbara Fyfe,"Manager, NPI Enablement & Instructional Design",,Unidentifiable LMS is itself the story,education.konghq.com,5.2
+Harness,Other LMS,"GitBook + Instruqt, no LMS",25,Drafted,Kendra Marquart,"Principal TPM, Certifications","Instruqt-powered certs, no LMS; 2022 cohort",Certification with no completion backbone,university.harness.io,4.5
+Splunk,Legacy,Saba,25,Not started,Joe Milardo,"Director, Global Training Delivery",Datadog competitor,20-year-old stack at an observability leader,education.splunk.com,
+Honeycomb,Other LMS,Northpass/Gainsight,25,Not started,Diane Le Lovekamp,"Manager, Customer Education, built the Academy",Datadog competitor,Labs + AI gaps,academy.honeycomb.io,
+Mixpanel,Other LMS,Intellum,20,Not started,Torie Mantzouranis,"Head of Scaled CX & Education, NEW Aug 2026, platform just migrated",,Labs + AI gaps,learn.mixpanel.com,
+Pure Storage (Portworx),Other LMS,Intellum,10,Not started,TBD,Intellum rollout Jul 2025,Instruqt customer; new academy Jul 2025,"Fresh platform, labs not wired in",academy.purestorage.com,0.3
+Sentry,Graveyard,"Retired, redirects away",20,Not started,TBD,Target DevRel or CS leadership,Dead academy,What killed your education program,academy.sentry.io,
+Hasura,Graveyard,"Retired, redirects away",20,Not started,TBD,Target DevRel or CS leadership,Dead academy,What killed your education program,learn.hasura.io,
+AppDynamics,Graveyard,"Retired, redirects away",20,Not started,TBD,Cisco/Splunk integration,Dead academy; Datadog competitor,What killed your education program,university.appdynamics.com,
+Chronosphere,Graveyard,"Retired, redirects away",0,Not started,TBD,,Dead academy; Datadog competitor,What killed your education program,academy.chronosphere.io,
+Exasol,Graveyard,"Retired, redirects away",10,Not started,TBD,,Dead academy,What killed your education program,academy.exasol.com,
+Vonage,Graveyard,"Retired, redirects away",10,Not started,TBD,,Dead academy,What killed your education program,academy.vonage.com,
+Redpanda,Graveyard,"Retired, redirects to contact sales",10,Not started,TBD,"University retired, target DevRel",Instruqt customer; university died,What killed your education program,university.redpanda.com,4.4
+Cloudsmith,Greenfield,"None, Instruqt labs only",0,Not started,Nigel Douglas,"Head of Developer Relations (ex-Tigera, ex-Sysdig)",Instruqt customer,"You bought the labs, no platform around them",,
+Isovalent,Greenfield,"None, Instruqt labs on site",0,Not started,TBD,"Cisco-owned, via Cilium community team",Instruqt customer,"You bought the labs, no platform around them",,
+Replicated,Greenfield,"None, Instruqt labs only",0,Not started,TBD,,Instruqt customer,"You bought the labs, no platform around them",,
+Diagrid,Greenfield,"None, Instruqt labs only",0,Not started,TBD,"Founder-led, Dapr creators",Instruqt customer,"You bought the labs, no platform around them",,
+Syntasso,Greenfield,"None, Instruqt labs only",0,Not started,TBD,Founder-led,Instruqt customer,"You bought the labs, no platform around them",,
